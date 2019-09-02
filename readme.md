@@ -32,4 +32,4 @@ sudo dfu-programmer atmega16u2 erase && sudo dfu-programmer atmega16u2 flash --d
 
 So, short the pins, erase, flash UNO fw, reset, power cycle.
 Load the sketch in the IDE and upload it.
-Then short the pins, erase, flash with Arduino-keyboard-0.3.hex , reset , power cycle.   
+Then short the pins, erase, flash with Arduino-keyboard-0.3.hex , reset , power cycle.
